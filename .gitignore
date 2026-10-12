@@ -1,0 +1,12 @@
+#运行生成的输出文件
+todo_data.txt
+*.html
+chart.png
+
+#pycharm项目配置文件夹
+.idea/
+*.iml
+
+#python缓存
+__pycache__/
+*.pyc
